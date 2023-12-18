@@ -1,0 +1,18 @@
+# 1. In how many ways can you arrange 5 books on a shelf?
+
+There are 
+5
+!
+5! (read as "5 factorial") ways to arrange 5 books on a shelf. The factorial of a number is the product of all positive integers up to that number.
+    
+    5!=5×4×3×2×1=120
+So, there are 120 ways to arrange 5 books on a shelf.
+
+**************************************************************************************************
+
+Существует 5! (читается как "пять факториал") способов расставить 5 книг на полке. 
+Факториал числа означает произведение всех целых чисел от 1 до этого числа.
+
+    5!=5×4×3×2×1=120
+
+Таким образом, есть 120 способов расставить 5 книг на полке.
